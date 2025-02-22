@@ -6,6 +6,7 @@ import Login from './pages/Login.vue';
 import Register from './pages/Register.vue';
 import Dashboard from './pages/Dashboard.vue';
 import { createApp } from 'vue';
+import Chat from './pages/Chat.vue';
 
 const routes = [
   { path: '/login', component: Login },
